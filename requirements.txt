@@ -1,0 +1,4 @@
+wikipedia
+youtube-search-python
+deep-translator
+vk-api
